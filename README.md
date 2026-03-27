@@ -65,10 +65,10 @@ Watch the demo video here: [YouTube Link](https://youtu.be/y8GWhRY36MY)
 ## About Me
 Developed by Hesham Yasser — a high school student (2025) from Egypt. I have had a passion for programming and coding since I was young, and this passion has continued to grow. I really enjoy creating and developing anything related to tech. I am focusing on improving my skills and gaining more experience mainly in cybersecurity and also in programming. Feel free to contact me through my social media links below.
 - Email: heshamyasser2409@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hesham-yasser0001/
+- LinkedIn: https://www.linkedin.com/in/hesham-yasser37/
 - Instagram: https://www.instagram.com/heshamyasser37/
-- GitHub: https://github.com/Hesham0001/
-- Reddit: https://www.reddit.com/user/Hesham_37/ 
+- Reddit: https://www.reddit.com/user/Hesham_37/
+- GitHub: https://github.com/HeshamYasser37/
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
